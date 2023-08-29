@@ -1,7 +1,12 @@
+<script setup>
+onMounted(()=>{
+  // console.log('hello')
+  alert('hello')
+})
+</script>
 <template>
   <div>
     <h1>test</h1>
-    <!-- <NuxtWelcome /> -->
-    <img src="/img/img1.jpg" alt="">
+    <img src="/img/img1.png" alt="">
   </div>
 </template>
